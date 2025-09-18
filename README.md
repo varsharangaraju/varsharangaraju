@@ -23,10 +23,10 @@
 Power BI 📊 | Tableau 📈 | QlikSense 📉 | Looker 📑  
 
 **Data Analysis & Programming:**  
-Python 🐍 | R 📐 | SQL 💾 | Excel 📊  
+Python  | R 📐 | SQL 💾 | Excel 📊  
 
 **Cloud & Big Data:**  
-AWS ☁️ | Azure ☁️ | GCP ☁️ | Hadoop 🌾 | Spark 🔥  
+AWS ☁️ | Azure ☁️ | GCP ☁️ | Hadoop  | Spark 🔥  
 
 
 
