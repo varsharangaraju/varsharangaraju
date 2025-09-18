@@ -21,11 +21,13 @@
 
 ## 💻 Technical Skills
 
+
 **Data Visualization & BI Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qlik/qlik-original.svg" alt="QlikSense" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" alt="Looker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/powerbi.png" alt="Power BI" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/tableau.png" alt="Tableau" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/qliksense.png" alt="QlikSense" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/looker.png" alt="Looker" width="40" height="40"/>
+
 
 **Data Analysis & Programming:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
