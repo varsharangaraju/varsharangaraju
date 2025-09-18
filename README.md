@@ -19,28 +19,50 @@
 🌟 Self-Starter & Collaborative Team Player  
 🗣 Strong Communication & Stakeholder Management  
 
+
+
 ## 💻 Technical Skills
 
+*Data Visualization & BI Tools:*
 
-**Data Visualization & BI Tools:**  
-<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/powerbi.png" alt="Power BI" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/tableau.png" alt="Tableau" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/qliksense.png" alt="QlikSense" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/varsharangaraju/assets/main/looker.png" alt="Looker" width="40" height="40"/>
+-   Power BI <img src="URL_to_PowerBI_logo" alt="Power BI" width="20" height="20"> | Tableau <img src="URL_to_Tableau_logo" alt="Tableau" width="20" height="20"> | QlikSense <img src="URL_to_QlikSense_logo" alt="QlikSense" width="20" height="20"> | Looker <img src="URL_to_Looker_logo" alt="Looker" width="20" height="20">
 
+*Data Analysis & Programming:*
 
-**Data Analysis & Programming:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
+-   Python <img src="URL_to_Python_logo" alt="Python" width="20" height="20"> | R <img src="URL_to_R_logo" alt="R" width="20" height="20"> | SQL <img src="URL_to_SQL_logo" alt="SQL" width="20" height="20"> | Excel <img src="URL_to_Excel_logo" alt="Excel" width="20" height="20">
 
-**Cloud & Big Data:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="GCP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" alt="Spark" width="40" height="40"/>
+*Cloud & Big Data:*
+
+-   AWS <img src="URL_to_AWS_logo" alt="AWS" width="20" height="20"> | Azure <img src="URL_to_Azure_logo" alt="Azure" width="20" height="20"> | GCP <img src="URL_to_GCP_logo" alt="GCP" width="20" height="20"> | Hadoop <img src="URL_to_Hadoop_logo" alt="Hadoop" width="20" height="20"> | Spark <img src="URL_to_Spark_logo" alt="Spark" width="20" height="20">
+
+---
+
+### *Option 2: The "Grid with Logos" Style*
+
+This style (from the second image) uses Markdown tables to create a neat grid of logos. This is great for a more structured, visual display.
+
+Here's the code for this option. Again, you'll need to find and replace the placeholder URL_to_logo with the actual URLs of your chosen logos.
+
+```markdown
+## 💻 Technical Skills
+
+### Data Visualization & BI Tools
+
+| <img src="URL_to_PowerBI_logo" alt="Power BI" width="50" height="50"> <br> Power BI | <img src="URL_to_Tableau_logo" alt="Tableau" width="50" height="50"> <br> Tableau | <img src="URL_to_QlikSense_logo" alt="Qlik Sense" width="50" height="50"> <br> Qlik Sense | <img src="URL_to_Looker_logo" alt="Looker" width="50" height="50"> <br> Looker |
+|---|---|---|---|
+
+### Data Analysis & Programming
+
+| <img src="URL_to_Python_logo" alt="Python" width="50" height="50"> <br> Python | <img src="URL_to_R_logo" alt="R" width="50" height="50"> <br> R | <img src="URL_to_SQL_logo" alt="SQL" width="50" height="50"> <br> SQL | <img src="URL_to_Excel_logo" alt="Excel" width="50" height="50"> <br> Excel |
+|---|---|---|---|
+
+### Cloud & Big Data
+
+| <img src="URL_to_AWS_logo" alt="AWS" width="50" height="50"> <br> AWS | <img src="URL_to_Azure_logo" alt="Azure" width="50" height="50"> <br> Azure | <img src="URL_to_GCP_logo" alt="GCP" width="50" height="50"> <br> GCP | <img src="URL_to_Hadoop_logo" alt="Hadoop" width="50" height="50"> <br> Hadoop |
+|---|---|---|---|
+
+| <img src="URL_to_Spark_logo" alt="Spark" width="50" height="50"> <br> Spark | | | |
+|---|---|---|---|
 
 ## 📬 Contact Me
 📧 Email: (rangarajusaivarsha@gmail.com)  
