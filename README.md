@@ -1,5 +1,4 @@
 Hi there 👋, I'm Varsha — Blending Data, Creativity, and a Dash of Curiosity 🌍✨📊
-<img align="right" alt="anime girl coding" width="300" src="https://i.pinimg.com/originals/2a/7a/8c/2a7a8ccdf5a836b8f1ef1e3ab80bd4c8.gif">
 
 
 <!--
@@ -16,3 +15,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Technical Skills
+
+**Data Visualization & BI Tools:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue?logo=power-bi&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?logo=tableau&logoColor=white) 
+![QlikSense](https://img.shields.io/badge/QlikSense-BI-red?logo=qlik&logoColor=white) 
+![Looker](https://img.shields.io/badge/Looker-BI-purple?logo=looker&logoColor=white)  
+
+**Data Analysis & Programming:**  
+![Python](https://img.shields.io/badge/Python-Programming-ffdd54?logo=python&logoColor=blue) 
+![R](https://img.shields.io/badge/R-Analytics-blue?logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=mysql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&logoColor=white)  
+
+**Cloud & Big Data:**  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-Cloud-red?logo=google-cloud&logoColor=white) 
+![Hadoop](https://img.shields.io/badge/Hadoop-BigData-orange?logo=apache-hadoop&logoColor=white) 
+![Spark](https://img.shields.io/badge/Spark-BigData-red?logo=apache-spark&logoColor=white)  
+
